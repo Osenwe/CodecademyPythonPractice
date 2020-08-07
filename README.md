@@ -1,2 +1,2 @@
-# CodecademyPythonPractice
-Learning python on codecademy and youll find my completed projects here
+# PythonPractice
+Learning python from different resources and youll find my completed projects here
